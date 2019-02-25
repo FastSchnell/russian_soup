@@ -55,11 +55,13 @@ servers:
 linux 64位
 ```
 wget googlebridge.com/rs_linux_amd64
+chmod +x rs_linux_amd64
 ```
 
 mac
 ```
 wget googlebridge.com/rs_mac
+chmod +x rs_mac
 ```
 
 windows 64位
