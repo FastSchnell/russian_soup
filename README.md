@@ -26,7 +26,7 @@
 
 yaml配置文件
 -----------
-用yaml文件配置多个端口转发，vi config.yaml
+用yaml文件配置多个端口转发，`vi config.yaml`
 ```
 servers:
   - type: server
@@ -62,7 +62,7 @@ mac
 wget googlebridge.com/rs_mac
 ```
 
-windows
+windows 64位
 ```
 wget googlebridge.com/rs_windows_adm64.exe
 ```
